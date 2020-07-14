@@ -1,0 +1,120 @@
+{
+  "data": [
+    {
+      "id": "acp",
+      "desc": "Air Combo Plus"
+    },
+    {
+      "id": "ah",
+      "desc": "Attack Haste"
+    },
+    {
+      "id": "bb",
+      "desc": "Blizzard Boost"
+    },
+    {
+      "id": "bs",
+      "desc": "Blizzard Screen"
+    },
+    {
+      "id": "cfb",
+      "desc": "Combo F Boost"
+    },
+    {
+      "id": "cp",
+      "desc": "Combo Plus"
+    },
+    {
+      "id": "cb",
+      "desc": "Cure Boost"
+    },
+    {
+      "id": "dams",
+      "desc": "Damage Syphon"
+    },
+    {
+      "id": "ds",
+      "desc": "Dark Screen"
+    },
+    {
+      "id": "def",
+      "desc": "Defender"
+    },
+    {
+      "id": "expc",
+      "desc": "EXP Chance"
+    },
+    {
+      "id": "expw",
+      "desc": "EXP Walker"
+    },
+    {
+      "id": "finb",
+      "desc": "Finish Boost"
+    },
+    {
+      "id": "fb",
+      "desc": "Fire Boost"
+    },
+    {
+      "id": "fs",
+      "desc": "Fire Screen"
+    },
+    {
+      "id": "hpb",
+      "desc": "HP Boost"
+    },
+    {
+      "id": "hpp",
+      "desc": "HP Prize Plus"
+    },
+    {
+      "id": "ib",
+      "desc": "Item Boost"
+    },
+    {
+      "id": "lb",
+      "desc": "Leaf Bracer"
+    },
+    {
+      "id": "lpp",
+      "desc": "Link Prize Plus"
+    },
+    {
+      "id": "lkb",
+      "desc": "Luck Boost"
+    },
+    {
+      "id": "ls",
+      "desc": "Lucky Strike"
+    },
+    {
+      "id": "mh",
+      "desc": "Magic Haste"
+    },
+    {
+      "id": "om",
+      "desc": "Once More"
+    },
+    {
+      "id": "rb",
+      "desc": "Reload Boost"
+    },
+    {
+      "id": "sc",
+      "desc": "Second Chance"
+    },
+    {
+      "id": "tb",
+      "desc": "Thunder Boost"
+    },
+    {
+      "id": "ts",
+      "desc": "Thunder Screen"
+    },
+    {
+      "id": "tm",
+      "desc": "Treasure Magnet"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": "sh",
+      "value": "Shimmering"
+    },
+    {
+      "id": "f",
+      "value": "Fleeting"
+    },
+    {
+      "id": "p",
+      "value": "Pulsing"
+    },
+    {
+      "id": "W",
+      "value": "Wellspring"
+    },
+    {
+      "id": "so",
+      "value": "Soothing"
+    },
+    {
+      "id": "h",
+      "value": "Hungry"
+    },
+    {
+      "id": "a",
+      "value": "Abounding"
+    }
+  ]
+}

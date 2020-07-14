@@ -1,0 +1,2569 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Blitz",
+      "melding": [
+        {
+          "fi": 2,
+          "si": 3,
+          "cg": "O",
+          "perc": "90"
+        },
+        {
+          "fi": 4,
+          "si": 5,
+          "cg": "P",
+          "perc": "90"
+        },
+        {
+          "fi": 6,
+          "si": 3,
+          "cg": "K",
+          "perc": "90"
+        }
+      ],
+      "type": "Attack",
+      "chars": "TVA"
+    },
+    {
+      "id": 2,
+      "name": "Quick Blitz",
+      "melding": []
+    },
+    {
+      "id": 3,
+      "name": "Slot Edge",
+      "melding": [
+        {
+          "fi": 5,
+          "si": 59,
+          "cg": "O",
+          "perc": "100"
+        },
+        {
+          "fi": 55,
+          "si": 56,
+          "cg": "P",
+          "perc": "95"
+        },
+        {
+          "fi": 33,
+          "si": 56,
+          "cg": "G",
+          "perc": "95"
+        },
+        {
+          "fi": 60,
+          "si": 61,
+          "cg": "N",
+          "perc": "90"
+        },
+        {
+          "fi": 60,
+          "si": 62,
+          "cg": "P",
+          "perc": "90"
+        },
+        {
+          "fi": 60,
+          "si": 63,
+          "cg": "N",
+          "perc": "90"
+        },
+        {
+          "fi": 60,
+          "si": 64,
+          "cg": "P",
+          "perc": "90"
+        }
+      ],
+      "type": "Attack",
+      "chars": "A"
+    },
+    {
+      "id": 4,
+      "name": "Barrier Surge",
+      "melding": [
+        {
+          "fi": 14,
+          "si": 45,
+          "cg": "D",
+          "perc": "100"
+        },
+        {
+          "fi": 6,
+          "si": 45,
+          "cg": "K",
+          "perc": "100"
+        }
+      ],
+      "type": "Attack",
+      "chars": "A"
+    },
+    {
+      "id": 5,
+      "name": "Wishing Edge",
+      "melding": [
+        {
+          "fi": 30,
+          "si": 4,
+          "cg": "O",
+          "perc": "100"
+        },
+        {
+          "fi": 4,
+          "si": 6,
+          "cg": "K",
+          "perc": "100"
+        },
+        {
+          "fi": 6,
+          "si": 34,
+          "cg": "J",
+          "perc": "100"
+        }
+      ],
+      "type": "Attack",
+      "chars": "A"
+    },
+    {
+      "id": 6,
+      "name": "Stun Edge",
+      "melding": [
+        {
+          "fi": 15,
+          "si": 52,
+          "cg": "K",
+          "perc": "95"
+        },
+        {
+          "fi": 30,
+          "si": 52,
+          "cg": "L",
+          "perc": "95"
+        },
+        {
+          "fi": 30,
+          "si": 46,
+          "cg": "K",
+          "perc": "95"
+        }
+      ],
+      "type": "Attack",
+      "chars": "TVA"
+    },
+    {
+      "id": 7,
+      "name": "Meteor Crash",
+      "melding": [
+        {
+          "fi": 1,
+          "si": 8,
+          "cg": "N",
+          "perc": "100"
+        },
+        {
+          "fi": 9,
+          "si": 10,
+          "cg": "D",
+          "perc": "100"
+        }
+      ],
+      "type": "Attack",
+      "chars": "T"
+    },
+    {
+      "id": 8,
+      "name": "Quake",
+      "melding": [
+        {
+          "fi": 10,
+          "si": 12,
+          "cg": "B",
+          "perc": "90"
+        },
+        {
+          "fi": 10,
+          "si": 39,
+          "cg": "C",
+          "perc": "90"
+        },
+        {
+          "fi": 6,
+          "si": 67,
+          "cg": "O",
+          "perc": "30"
+        },
+        {
+          "fi": 34,
+          "si": 68,
+          "cg": "L",
+          "perc": "30"
+        },
+        {
+          "fi": 10,
+          "si": 10,
+          "cg": "N",
+          "perc": "30"
+        }
+      ],
+      "type": "Magic",
+      "chars": "T"
+    },
+    {
+      "id": 9,
+      "name": "Fire Strike",
+      "melding": [
+        {
+          "fi": 55,
+          "si": 17,
+          "cg": "D",
+          "perc": "100"
+        },
+        {
+          "fi": 5,
+          "si": 44,
+          "cg": "A",
+          "perc": "100"
+        },
+        {
+          "fi": 6,
+          "si": 16,
+          "cg": "K",
+          "perc": "100"
+        }
+      ],
+      "type": "Attack",
+      "chars": "TVA"
+    },
+    {
+      "id": 10,
+      "name": "Brutal Blast",
+      "melding": [
+        {
+          "fi": 6,
+          "si": 67,
+          "cg": "O",
+          "perc": "70"
+        },
+        {
+          "fi": 34,
+          "si": 68,
+          "cg": "L",
+          "perc": "70"
+        }
+      ],
+      "type": "Attack",
+      "chars": "T"
+    },
+    {
+      "id": 11,
+      "name": "Magic Hour",
+      "melding": [
+        {
+          "fi": 1,
+          "si": 12,
+          "cg": "O",
+          "perc": "90"
+        },
+        {
+          "fi": 4,
+          "si": 13,
+          "cg": "N",
+          "perc": "90"
+        }
+      ],
+      "type": "Attack",
+      "chars": "A"
+    },
+    {
+      "id": 12,
+      "name": "Zero Graviga",
+      "melding": [
+        {
+          "fi": 46,
+          "si": 20,
+          "cg": "I",
+          "perc": "80"
+        },
+        {
+          "fi": 23,
+          "si": 20,
+          "cg": "M",
+          "perc": "80"
+        },
+        {
+          "fi": 20,
+          "si": 20,
+          "cg": "N",
+          "perc": "80"
+        }
+      ],
+      "type": "Magic",
+      "chars": "TVA"
+    },
+    {
+      "id": 13,
+      "name": "Aeroga",
+      "melding": [
+        {
+          "fi": 2,
+          "si": 50,
+          "cg": "O",
+          "perc": "90"
+        },
+        {
+          "fi": 49,
+          "si": 50,
+          "cg": "M",
+          "perc": "90"
+        },
+        {
+          "fi": 50,
+          "si": 50,
+          "cg": "N",
+          "perc": "90"
+        }
+      ],
+      "type": "Magic",
+      "chars": "TVA"
+    },
+    {
+      "id": 14,
+      "name": "Fire Dash",
+      "melding": [
+        {
+          "fi": 15,
+          "si": 16,
+          "cg": "D",
+          "perc": "100"
+        },
+        {
+          "fi": 15,
+          "si": 17,
+          "cg": "C",
+          "perc": "100"
+        },
+        {
+          "fi": 18,
+          "si": 16,
+          "cg": "D",
+          "perc": "100"
+        }
+      ],
+      "type": "Attack",
+      "chars": "TVA"
+    },
+    {
+      "id": 15,
+      "name": "Sliding Dash",
+      "melding": []
+    },
+    {
+      "id": 16,
+      "name": "Fire",
+      "melding": []
+    },
+    {
+      "id": 17,
+      "name": "Fira",
+      "melding": [
+        {
+          "fi": 14,
+          "si": 16,
+          "cg": "D",
+          "perc": "100"
+        },
+        {
+          "fi": 9,
+          "si": 16,
+          "cg": "D",
+          "perc": "100"
+        },
+        {
+          "fi": 16,
+          "si": 16,
+          "cg": "A",
+          "perc": "100"
+        },
+        {
+          "fi": 16,
+          "si": 44,
+          "cg": "C",
+          "perc": "100"
+        }
+      ],
+      "type": "Magic",
+      "chars": "TVA"
+    },
+    {
+      "id": 18,
+      "name": "Confusion Strike",
+      "melding": [
+        {
+          "fi": 2,
+          "si": 65,
+          "cg": "O",
+          "perc": "100"
+        },
+        {
+          "fi": 15,
+          "si": 23,
+          "cg": "K",
+          "perc": "100"
+        },
+        {
+          "fi": 30,
+          "si": 65,
+          "cg": "G",
+          "perc": "100"
+        }
+      ],
+      "type": "Attack",
+      "chars": "TVA"
+    },
+    {
+      "id": 19,
+      "name": "Dark Haze",
+      "melding": [
+        {
+          "fi": 14,
+          "si": 20,
+          "cg": "D",
+          "perc": "100"
+        },
+        {
+          "fi": 14,
+          "si": 21,
+          "cg": "A",
+          "perc": "100"
+        },
+        {
+          "fi": 22,
+          "si": 23,
+          "cg": "C",
+          "perc": "100"
+        }
+      ],
+      "type": "Attack",
+      "chars": "T"
+    },
+    {
+      "id": 20,
+      "name": "Zero Gravira",
+      "melding": [
+        {
+          "fi": 52,
+          "si": 23,
+          "cg": "I",
+          "perc": "90"
+        },
+        {
+          "fi": 23,
+          "si": 23,
+          "cg": "M",
+          "perc": "90"
+        },
+        {
+          "fi": 36,
+          "si": 49,
+          "cg": "P",
+          "perc": "90"
+        }
+      ],
+      "type": "Magic",
+      "chars": "TVA"
+    },
+    {
+      "id": 21,
+      "name": "Blackout",
+      "melding": [
+        {
+          "fi": 23,
+          "si": 65,
+          "cg": "M",
+          "perc": "100"
+        },
+        {
+          "fi": 20,
+          "si": 65,
+          "cg": "N",
+          "perc": "100"
+        },
+        {
+          "fi": 20,
+          "si": 58,
+          "cg": "P",
+          "perc": "100"
+        }
+      ],
+      "type": "Magic",
+      "chars": "TVA"
+    },
+    {
+      "id": 22,
+      "name": "Fire Surge",
+      "melding": [
+        {
+          "fi": 14,
+          "si": 44,
+          "cg": "D",
+          "perc": "100"
+        },
+        {
+          "fi": 9,
+          "si": 17,
+          "cg": "A",
+          "perc": "100"
+        },
+        {
+          "fi": 18,
+          "si": 17,
+          "cg": "O",
+          "perc": "100"
+        },
+        {
+          "fi": 34,
+          "si": 17,
+          "cg": "K",
+          "perc": "100"
+        }
+      ],
+      "type": "Attack",
+      "chars": "TVA"
+    },
+    {
+      "id": 23,
+      "name": "Zero Gravity",
+      "melding": []
+    },
+    {
+      "id": 24,
+      "name": "Sonic Blade",
+      "melding": [
+        {
+          "fi": 1,
+          "si": 19,
+          "cg": "D",
+          "perc": "90"
+        },
+        {
+          "fi": 1,
+          "si": 25,
+          "cg": "N",
+          "perc": "90"
+        },
+        {
+          "fi": 14,
+          "si": 26,
+          "cg": "K",
+          "perc": "90"
+        }
+      ],
+      "type": "Attack",
+      "chars": "TVA"
+    },
+    {
+      "id": 25,
+      "name": "Air Slide",
+      "melding": []
+    },
+    {
+      "id": 26,
+      "name": "Thunder Surge",
+      "melding": [
+        {
+          "fi": 14,
+          "si": 46,
+          "cg": "D",
+          "perc": "100"
+        },
+        {
+          "fi": 31,
+          "si": 46,
+          "cg": "G",
+          "perc": "100"
+        },
+        {
+          "fi": 6,
+          "si": 46,
+          "cg": "I",
+          "perc": "100"
+        },
+        {
+          "fi": 18,
+          "si": 46,
+          "cg": "I",
+          "perc": "95"
+        }
+      ],
+      "type": "Attack",
+      "chars": "TVA"
+    },
+    {
+      "id": 27,
+      "name": "Chaos Blade",
+      "melding": [
+        {
+          "fi": 19,
+          "si": 24,
+          "cg": "B",
+          "perc": "90"
+        }
+      ],
+      "type": "Attack",
+      "chars": "T"
+    },
+    {
+      "id": 28,
+      "name": "Zantetsuken",
+      "melding": [
+        {
+          "fi": 19,
+          "si": 29,
+          "cg": "B",
+          "perc": "80"
+        },
+        {
+          "fi": 24,
+          "si": 29,
+          "cg": "F",
+          "perc": "80"
+        }
+      ],
+      "type": "Attack",
+      "chars": "T"
+    },
+    {
+      "id": 29,
+      "name": "Stopga",
+      "melding": [
+        {
+          "fi": 90,
+          "si": 85,
+          "cg": "I",
+          "perc": "100"
+        },
+        {
+          "fi": 85,
+          "si": 85,
+          "cg": "J",
+          "perc": "100"
+        }
+      ],
+      "type": "Magic",
+      "chars": "TVA"
+    },
+    {
+      "id": 30,
+      "name": "Strike Raid",
+      "melding": [
+        {
+          "fi": 2,
+          "si": 15,
+          "cg": "O",
+          "perc": "100"
+        }
+      ],
+      "type": "Attack",
+      "chars": "TVA"
+    },
+    {
+      "id": 31,
+      "name": "Freeze Raid",
+      "melding": [
+        {
+          "fi": 30,
+          "si": 32,
+          "cg": "I",
+          "perc": "100"
+        },
+        {
+          "fi": 33,
+          "si": 34,
+          "cg": "K",
+          "perc": "100"
+        }
+      ],
+      "type": "Attack",
+      "chars": "TVA"
+    },
+    {
+      "id": 32,
+      "name": "Blizzara",
+      "melding": [
+        {
+          "fi": 30,
+          "si": 54,
+          "cg": "G",
+          "perc": "100"
+        },
+        {
+          "fi": 33,
+          "si": 54,
+          "cg": "G",
+          "perc": "100"
+        },
+        {
+          "fi": 54,
+          "si": 54,
+          "cg": "E",
+          "perc": "100"
+        },
+        {
+          "fi": 54,
+          "si": 49,
+          "cg": "H",
+          "perc": "100"
+        }
+      ],
+      "type": "Magic",
+      "chars": "TVA"
+    },
+    {
+      "id": 33,
+      "name": "Blizzard Edge",
+      "melding": [
+        {
+          "fi": 2,
+          "si": 54,
+          "cg": "G",
+          "perc": "95"
+        },
+        {
+          "fi": 2,
+          "si": 32,
+          "cg": "H",
+          "perc": "95"
+        },
+        {
+          "fi": 15,
+          "si": 54,
+          "cg": "E",
+          "perc": "95"
+        },
+        {
+          "fi": 15,
+          "si": 32,
+          "cg": "G",
+          "perc": "95"
+        }
+      ],
+      "type": "Attack",
+      "chars": "TVA"
+    },
+    {
+      "id": 34,
+      "name": "Binding Strike",
+      "melding": [
+        {
+          "fi": 2,
+          "si": 66,
+          "cg": "K",
+          "perc": "100"
+        },
+        {
+          "fi": 30,
+          "si": 66,
+          "cg": "O",
+          "perc": "100"
+        },
+        {
+          "fi": 6,
+          "si": 23,
+          "cg": "I",
+          "perc": "100"
+        }
+      ],
+      "type": "Attack",
+      "chars": "TVA"
+    },
+    {
+      "id": 35,
+      "name": "Treasure Raid",
+      "melding": [
+        {
+          "fi": 30,
+          "si": 3,
+          "cg": "O",
+          "perc": "100"
+        },
+        {
+          "fi": 3,
+          "si": 36,
+          "cg": "D",
+          "perc": "100"
+        },
+        {
+          "fi": 3,
+          "si": 37,
+          "cg": "K",
+          "perc": "100"
+        }
+      ],
+      "type": "Attack",
+      "chars": "V"
+    },
+    {
+      "id": 36,
+      "name": "Magnet",
+      "melding": []
+    },
+    {
+      "id": 37,
+      "name": "Magnera",
+      "melding": [
+        {
+          "fi": 6,
+          "si": 36,
+          "cg": "K",
+          "perc": "100"
+        },
+        {
+          "fi": 52,
+          "si": 36,
+          "cg": "I",
+          "perc": "100"
+        },
+        {
+          "fi": 36,
+          "si": 36,
+          "cg": "M",
+          "perc": "100"
+        }
+      ],
+      "type": "Magic",
+      "chars": "TVA"
+    },
+    {
+      "id": 38,
+      "name": "Spark Raid",
+      "melding": [
+        {
+          "fi": 31,
+          "si": 39,
+          "cg": "J",
+          "perc": "100"
+        },
+        {
+          "fi": 35,
+          "si": 39,
+          "cg": "N",
+          "perc": "100"
+        },
+        {
+          "fi": 26,
+          "si": 40,
+          "cg": "P",
+          "perc": "20"
+        },
+        {
+          "fi": 41,
+          "si": 40,
+          "cg": "L",
+          "perc": "20"
+        },
+        {
+          "fi": 40,
+          "si": 42,
+          "cg": "L",
+          "perc": "20"
+        }
+      ],
+      "type": "Attack",
+      "chars": "V"
+    },
+    {
+      "id": 39,
+      "name": "Magnega",
+      "melding": [
+        {
+          "fi": 36,
+          "si": 37,
+          "cg": "I",
+          "perc": "100"
+        },
+        {
+          "fi": 37,
+          "si": 37,
+          "cg": "J",
+          "perc": "100"
+        }
+      ],
+      "type": "Magic",
+      "chars": "TVA"
+    },
+    {
+      "id": 40,
+      "name": "Dodge Roll",
+      "melding": []
+    },
+    {
+      "id": 41,
+      "name": "Thundaga",
+      "melding": [
+        {
+          "fi": 34,
+          "si": 46,
+          "cg": "K",
+          "perc": "90"
+        },
+        {
+          "fi": 52,
+          "si": 46,
+          "cg": "I",
+          "perc": "90"
+        },
+        {
+          "fi": 46,
+          "si": 46,
+          "cg": "J",
+          "perc": "90"
+        }
+      ],
+      "type": "Magic",
+      "chars": "TVA"
+    },
+    {
+      "id": 42,
+      "name": "Stun Block",
+      "melding": [
+        {
+          "fi": 6,
+          "si": 89,
+          "cg": "L",
+          "perc": "100"
+        },
+        {
+          "fi": 41,
+          "si": 89,
+          "cg": "I",
+          "perc": "100"
+        }
+      ],
+      "type": "Action",
+      "chars": "TV"
+    },
+    {
+      "id": 43,
+      "name": "Wind Raid",
+      "melding": [
+        {
+          "fi": 31,
+          "si": 13,
+          "cg": "B",
+          "perc": "100"
+        },
+        {
+          "fi": 35,
+          "si": 13,
+          "cg": "F",
+          "perc": "100"
+        }
+      ],
+      "type": "Attack",
+      "chars": "V"
+    },
+    {
+      "id": 44,
+      "name": "Ignite",
+      "melding": [
+        {
+          "fi": 16,
+          "si": 66,
+          "cg": "A",
+          "perc": "100"
+        },
+        {
+          "fi": 17,
+          "si": 66,
+          "cg": "C",
+          "perc": "100"
+        }
+      ],
+      "type": "Magic",
+      "chars": "TVA"
+    },
+    {
+      "id": 45,
+      "name": "Barrier",
+      "melding": []
+    },
+    {
+      "id": 46,
+      "name": "Thundara",
+      "melding": [
+        {
+          "fi": 6,
+          "si": 52,
+          "cg": "K",
+          "perc": "100"
+        },
+        {
+          "fi": 52,
+          "si": 52,
+          "cg": "I",
+          "perc": "100"
+        },
+        {
+          "fi": 23,
+          "si": 36,
+          "cg": "L",
+          "perc": "100"
+        }
+      ],
+      "type": "Magic",
+      "chars": "TVA"
+    },
+    {
+      "id": 47,
+      "name": "Aerial Slam",
+      "melding": [
+        {
+          "fi": 14,
+          "si": 48,
+          "cg": "A",
+          "perc": "100"
+        },
+        {
+          "fi": 22,
+          "si": 49,
+          "cg": "D",
+          "perc": "100"
+        },
+        {
+          "fi": 9,
+          "si": 50,
+          "cg": "C",
+          "perc": "90"
+        }
+      ],
+      "type": "Attack",
+      "chars": "TVA"
+    },
+    {
+      "id": 48,
+      "name": "High Jump",
+      "melding": []
+    },
+    {
+      "id": 49,
+      "name": "Aero",
+      "melding": []
+    },
+    {
+      "id": 50,
+      "name": "Aerora",
+      "melding": [
+        {
+          "fi": 2,
+          "si": 49,
+          "cg": "G",
+          "perc": "95"
+        },
+        {
+          "fi": 52,
+          "si": 49,
+          "cg": "I",
+          "perc": "95"
+        },
+        {
+          "fi": 49,
+          "si": 49,
+          "cg": "E",
+          "perc": "95"
+        }
+      ],
+      "type": "Magic",
+      "chars": "TVA"
+    },
+    {
+      "id": 51,
+      "name": "Ars Solum",
+      "melding": [
+        {
+          "fi": 19,
+          "si": 24,
+          "cg": "B",
+          "perc": "20"
+        },
+        {
+          "fi": 19,
+          "si": 29,
+          "cg": "B",
+          "perc": "20"
+        },
+        {
+          "fi": 24,
+          "si": 29,
+          "cg": "F",
+          "perc": "20"
+        },
+        {
+          "fi": 15,
+          "si": 52,
+          "cg": "K",
+          "perc": "5"
+        },
+        {
+          "fi": 30,
+          "si": 52,
+          "cg": "L",
+          "perc": "5"
+        },
+        {
+          "fi": 30,
+          "si": 46,
+          "cg": "K",
+          "perc": "5"
+        },
+        {
+          "fi": 18,
+          "si": 46,
+          "cg": "I",
+          "perc": "5"
+        }
+      ],
+      "type": "Attack",
+      "chars": "T"
+    },
+    {
+      "id": 52,
+      "name": "Thunder",
+      "melding": []
+    },
+    {
+      "id": 53,
+      "name": "Ars Arcanum",
+      "melding": [
+        {
+          "fi": 1,
+          "si": 47,
+          "cg": "F",
+          "perc": "100"
+        },
+        {
+          "fi": 2,
+          "si": 3,
+          "cg": "O",
+          "perc": "10"
+        },
+        {
+          "fi": 9,
+          "si": 50,
+          "cg": "C",
+          "perc": "10"
+        },
+        {
+          "fi": 2,
+          "si": 54,
+          "cg": "G",
+          "perc": "5"
+        },
+        {
+          "fi": 2,
+          "si": 32,
+          "cg": "H",
+          "perc": "5"
+        },
+        {
+          "fi": 15,
+          "si": 54,
+          "cg": "E",
+          "perc": "5"
+        },
+        {
+          "fi": 15,
+          "si": 32,
+          "cg": "G",
+          "perc": "5"
+        },
+        {
+          "fi": 55,
+          "si": 56,
+          "cg": "P",
+          "perc": "5"
+        },
+        {
+          "fi": 33,
+          "si": 56,
+          "cg": "G",
+          "perc": "5"
+        }
+      ],
+      "type": "Attack",
+      "chars": "V"
+    },
+    {
+      "id": 54,
+      "name": "Blizzard",
+      "melding": []
+    },
+    {
+      "id": 55,
+      "name": "Poison Edge",
+      "melding": [
+        {
+          "fi": 2,
+          "si": 58,
+          "cg": "O",
+          "perc": "95"
+        },
+        {
+          "fi": 15,
+          "si": 58,
+          "cg": "K",
+          "perc": "95"
+        },
+        {
+          "fi": 30,
+          "si": 58,
+          "cg": "D",
+          "perc": "95"
+        }
+      ],
+      "type": "Attack",
+      "chars": "TVA"
+    },
+    {
+      "id": 56,
+      "name": "Cura",
+      "melding": [
+        {
+          "fi": 52,
+          "si": 59,
+          "cg": "I",
+          "perc": "100"
+        },
+        {
+          "fi": 59,
+          "si": 59,
+          "cg": "M",
+          "perc": "100"
+        },
+        {
+          "fi": 59,
+          "si": 49,
+          "cg": "O",
+          "perc": "100"
+        }
+      ],
+      "type": "Magic",
+      "chars": "TVA"
+    },
+    {
+      "id": 57,
+      "name": "Time Splicer",
+      "melding": [
+        {
+          "fi": 47,
+          "si": 29,
+          "cg": "F",
+          "perc": "100"
+        },
+        {
+          "fi": 29,
+          "si": 45,
+          "cg": "C",
+          "perc": "20"
+        },
+        {
+          "fi": 4,
+          "si": 5,
+          "cg": "P",
+          "perc": "10"
+        },
+        {
+          "fi": 6,
+          "si": 3,
+          "cg": "K",
+          "perc": "10"
+        }
+      ],
+      "type": "Attack",
+      "chars": "VA"
+    },
+    {
+      "id": 58,
+      "name": "Poison",
+      "melding": []
+    },
+    {
+      "id": 59,
+      "name": "Cure",
+      "melding": []
+    },
+    {
+      "id": 60,
+      "name": "Curaga",
+      "melding": [
+        {
+          "fi": 59,
+          "si": 56,
+          "cg": "M",
+          "perc": "100"
+        },
+        {
+          "fi": 56,
+          "si": 56,
+          "cg": "N",
+          "perc": "100"
+        }
+      ],
+      "type": "Magic",
+      "chars": "TVA"
+    },
+    {
+      "id": 61,
+      "name": "Renewal Block",
+      "melding": [
+        {
+          "fi": 60,
+          "si": 89,
+          "cg": "P",
+          "perc": "100"
+        },
+        {
+          "fi": 113,
+          "si": 89,
+          "cg": "C",
+          "perc": "100"
+        }
+      ],
+      "type": "Action",
+      "chars": "TV"
+    },
+    {
+      "id": 62,
+      "name": "Focus Block",
+      "melding": []
+    },
+    {
+      "id": 63,
+      "name": "Renewal Barrier",
+      "melding": [
+        {
+          "fi": 60,
+          "si": 45,
+          "cg": "P",
+          "perc": "100"
+        },
+        {
+          "fi": 113,
+          "si": 45,
+          "cg": "N",
+          "perc": "100"
+        }
+      ],
+      "type": "Action",
+      "chars": "A"
+    },
+    {
+      "id": 64,
+      "name": "Focus Barrier",
+      "melding": []
+    },
+    {
+      "id": 65,
+      "name": "Confuse",
+      "melding": []
+    },
+    {
+      "id": 66,
+      "name": "Bind",
+      "melding": []
+    },
+    {
+      "id": 67,
+      "name": "Mine Shield",
+      "melding": [
+        {
+          "fi": 17,
+          "si": 23,
+          "cg": "A",
+          "perc": "100"
+        },
+        {
+          "fi": 17,
+          "si": 89,
+          "cg": "C",
+          "perc": "100"
+        },
+        {
+          "fi": 44,
+          "si": 90,
+          "cg": "D",
+          "perc": "100"
+        },
+        {
+          "fi": 85,
+          "si": 89,
+          "cg": "M",
+          "perc": "100"
+        }
+      ],
+      "type": "Magic",
+      "chars": "TV"
+    },
+    {
+      "id": 68,
+      "name": "Mine Square",
+      "melding": [
+        {
+          "fi": 17,
+          "si": 90,
+          "cg": "A",
+          "perc": "100"
+        },
+        {
+          "fi": 17,
+          "si": 45,
+          "cg": "C",
+          "perc": "100"
+        },
+        {
+          "fi": 50,
+          "si": 44,
+          "cg": "D",
+          "perc": "100"
+        },
+        {
+          "fi": 85,
+          "si": 45,
+          "cg": "M",
+          "perc": "100"
+        }
+      ],
+      "type": "Magic",
+      "chars": "A"
+    },
+    {
+      "id": 69,
+      "name": "Tornado Strike",
+      "melding": [
+        {
+          "fi": 18,
+          "si": 13,
+          "cg": "G",
+          "perc": "100"
+        },
+        {
+          "fi": 34,
+          "si": 13,
+          "cg": "F",
+          "perc": "100"
+        }
+      ],
+      "type": "Attack",
+      "chars": "V"
+    },
+    {
+      "id": 70,
+      "name": "Magnet Spiral",
+      "melding": [
+        {
+          "fi": 34,
+          "si": 71,
+          "cg": "K",
+          "perc": "100"
+        },
+        {
+          "fi": 34,
+          "si": 39,
+          "cg": "J",
+          "perc": "100"
+        },
+        {
+          "fi": 2,
+          "si": 37,
+          "cg": "K",
+          "perc": "20"
+        },
+        {
+          "fi": 6,
+          "si": 37,
+          "cg": "L",
+          "perc": "20"
+        },
+        {
+          "fi": 20,
+          "si": 36,
+          "cg": "I",
+          "perc": "20"
+        }
+      ],
+      "type": "Attack",
+      "chars": "TVA"
+    },
+    {
+      "id": 71,
+      "name": "Collision Magnet",
+      "melding": [
+        {
+          "fi": 2,
+          "si": 37,
+          "cg": "K",
+          "perc": "80"
+        },
+        {
+          "fi": 6,
+          "si": 37,
+          "cg": "L",
+          "perc": "80"
+        },
+        {
+          "fi": 20,
+          "si": 36,
+          "cg": "I",
+          "perc": "80"
+        }
+      ],
+      "type": "Attack",
+      "chars": "TVA"
+    },
+    {
+      "id": 72,
+      "name": "Windcutter",
+      "melding": [
+        {
+          "fi": 34,
+          "si": 13,
+          "cg": "F",
+          "perc": "100"
+        },
+        {
+          "fi": 18,
+          "si": 13,
+          "cg": "G",
+          "perc": "100"
+        }
+      ],
+      "type": "Attack",
+      "chars": "T"
+    },
+    {
+      "id": 73,
+      "name": "Limit Storm",
+      "melding": [
+        {
+          "fi": 10,
+          "si": 18,
+          "cg": "G",
+          "perc": "100"
+        },
+        {
+          "fi": 10,
+          "si": 34,
+          "cg": "D",
+          "perc": "100"
+        }
+      ],
+      "type": "Attack",
+      "chars": "T"
+    },
+    {
+      "id": 74,
+      "name": "Salvation",
+      "melding": [
+        {
+          "fi": 43,
+          "si": 60,
+          "cg": "N",
+          "perc": "100"
+        }
+      ],
+      "type": "Attack",
+      "chars": "V"
+    },
+    {
+      "id": 75,
+      "name": "Geo Impact",
+      "melding": [
+        {
+          "fi": 10,
+          "si": 10,
+          "cg": "N",
+          "perc": "70"
+        }
+      ],
+      "type": "Attack",
+      "chars": "T"
+    },
+    {
+      "id": 76,
+      "name": "Sacrifice",
+      "melding": [
+        {
+          "fi": 19,
+          "si": 77,
+          "cg": "B",
+          "perc": "100"
+        },
+        {
+          "fi": 55,
+          "si": 77,
+          "cg": "D",
+          "perc": "100"
+        }
+      ],
+      "type": "Attack",
+      "chars": "T"
+    },
+    {
+      "id": 77,
+      "name": "Warp",
+      "melding": [
+        {
+          "fi": 46,
+          "si": 20,
+          "cg": "I",
+          "perc": "20"
+        },
+        {
+          "fi": 23,
+          "si": 20,
+          "cg": "M",
+          "perc": "20"
+        },
+        {
+          "fi": 20,
+          "si": 20,
+          "cg": "N",
+          "perc": "20"
+        },
+        {
+          "fi": 52,
+          "si": 23,
+          "cg": "I",
+          "perc": "10"
+        },
+        {
+          "fi": 36,
+          "si": 49,
+          "cg": "P",
+          "perc": "10"
+        },
+        {
+          "fi": 23,
+          "si": 23,
+          "cg": "M",
+          "perc": "10"
+        }
+      ],
+      "type": "Magic",
+      "chars": "T"
+    },
+    {
+      "id": 78,
+      "name": "Break Time",
+      "melding": [
+        {
+          "fi": 60,
+          "si": 61,
+          "cg": "N",
+          "perc": "10"
+        },
+        {
+          "fi": 60,
+          "si": 63,
+          "cg": "N",
+          "perc": "10"
+        },
+        {
+          "fi": 60,
+          "si": 62,
+          "cg": "P",
+          "perc": "10"
+        },
+        {
+          "fi": 60,
+          "si": 64,
+          "cg": "P",
+          "perc": "10"
+        }
+      ],
+      "type": "Attack",
+      "chars": "A"
+    },
+    {
+      "id": 79,
+      "name": "Firaga",
+      "melding": [
+        {
+          "fi": 14,
+          "si": 17,
+          "cg": "D",
+          "perc": "90"
+        },
+        {
+          "fi": 16,
+          "si": 17,
+          "cg": "A",
+          "perc": "90"
+        },
+        {
+          "fi": 17,
+          "si": 17,
+          "cg": "B",
+          "perc": "90"
+        }
+      ],
+      "type": "Magic",
+      "chars": "TVA"
+    },
+    {
+      "id": 80,
+      "name": "Dark Firaga",
+      "melding": [
+        {
+          "fi": 19,
+          "si": 79,
+          "cg": "D",
+          "perc": "100"
+        },
+        {
+          "fi": 79,
+          "si": 21,
+          "cg": "B",
+          "perc": "100"
+        }
+      ],
+      "type": "Magic",
+      "chars": "T"
+    },
+    {
+      "id": 81,
+      "name": "Fission Firaga",
+      "melding": [
+        {
+          "fi": 17,
+          "si": 13,
+          "cg": "A",
+          "perc": "80"
+        },
+        {
+          "fi": 79,
+          "si": 50,
+          "cg": "A",
+          "perc": "80"
+        },
+        {
+          "fi": 79,
+          "si": 13,
+          "cg": "B",
+          "perc": "80"
+        }
+      ],
+      "type": "Magic",
+      "chars": "TVA"
+    },
+    {
+      "id": 82,
+      "name": "Triple Firaga",
+      "melding": [
+        {
+          "fi": 17,
+          "si": 79,
+          "cg": "A",
+          "perc": "95"
+        },
+        {
+          "fi": 1,
+          "si": 79,
+          "cg": "D",
+          "perc": "90"
+        },
+        {
+          "fi": 79,
+          "si": 79,
+          "cg": "B",
+          "perc": "90"
+        }
+      ],
+      "type": "Magic",
+      "chars": "A"
+    },
+    {
+      "id": 83,
+      "name": "Crawling Fire",
+      "melding": [
+        {
+          "fi": 79,
+          "si": 84,
+          "cg": "A",
+          "perc": "80"
+        },
+        {
+          "fi": 79,
+          "si": 85,
+          "cg": "D",
+          "perc": "80"
+        },
+        {
+          "fi": 79,
+          "si": 29,
+          "cg": "B",
+          "perc": "80"
+        }
+      ],
+      "type": "Magic",
+      "chars": "TVA"
+    },
+    {
+      "id": 84,
+      "name": "Slow",
+      "melding": []
+    },
+    {
+      "id": 85,
+      "name": "Stopra",
+      "melding": [
+        {
+          "fi": 84,
+          "si": 84,
+          "cg": "L",
+          "perc": "100"
+        },
+        {
+          "fi": 84,
+          "si": 90,
+          "cg": "K",
+          "perc": "100"
+        },
+        {
+          "fi": 90,
+          "si": 90,
+          "cg": "I",
+          "perc": "100"
+        }
+      ],
+      "type": "Magic",
+      "chars": "TVA"
+    },
+    {
+      "id": 86,
+      "name": "Blizzaga",
+      "melding": [
+        {
+          "fi": 33,
+          "si": 32,
+          "cg": "G",
+          "perc": "100"
+        },
+        {
+          "fi": 54,
+          "si": 32,
+          "cg": "E",
+          "perc": "100"
+        },
+        {
+          "fi": 32,
+          "si": 32,
+          "cg": "F",
+          "perc": "100"
+        }
+      ],
+      "type": "Magic",
+      "chars": "TVA"
+    },
+    {
+      "id": 87,
+      "name": "Triple Blizzaga",
+      "melding": [
+        {
+          "fi": 1,
+          "si": 86,
+          "cg": "G",
+          "perc": "100"
+        },
+        {
+          "fi": 32,
+          "si": 86,
+          "cg": "E",
+          "perc": "100"
+        },
+        {
+          "fi": 86,
+          "si": 86,
+          "cg": "F",
+          "perc": "100"
+        }
+      ],
+      "type": "Magic",
+      "chars": "A"
+    },
+    {
+      "id": 88,
+      "name": "Thundaga Shot",
+      "melding": [
+        {
+          "fi": 30,
+          "si": 41,
+          "cg": "I",
+          "perc": "85"
+        },
+        {
+          "fi": 31,
+          "si": 41,
+          "cg": "E",
+          "perc": "85"
+        },
+        {
+          "fi": 79,
+          "si": 41,
+          "cg": "A",
+          "perc": "85"
+        }
+      ],
+      "type": "Magic",
+      "chars": "A"
+    },
+    {
+      "id": 89,
+      "name": "Block",
+      "melding": []
+    },
+    {
+      "id": 90,
+      "name": "Stop",
+      "melding": []
+    },
+    {
+      "id": 91,
+      "name": "Seeker Mine",
+      "melding": [
+        {
+          "fi": 67,
+          "si": 68,
+          "cg": "B",
+          "perc": "100"
+        },
+        {
+          "fi": 67,
+          "si": 39,
+          "cg": "C",
+          "perc": "100"
+        },
+        {
+          "fi": 68,
+          "si": 39,
+          "cg": "D",
+          "perc": "100"
+        }
+      ],
+      "type": "Magic",
+      "chars": "A"
+    },
+    {
+      "id": 92,
+      "name": "Munny Magnet",
+      "melding": [
+        {
+          "fi": 5,
+          "si": 37,
+          "cg": "K",
+          "perc": "100"
+        },
+        {
+          "fi": 46,
+          "si": 37,
+          "cg": "I",
+          "perc": "100"
+        }
+      ],
+      "type": "Magic",
+      "chars": "A"
+    },
+    {
+      "id": 93,
+      "name": "Energy Magnet",
+      "melding": [
+        {
+          "fi": 59,
+          "si": 37,
+          "cg": "M",
+          "perc": "100"
+        },
+        {
+          "fi": 56,
+          "si": 37,
+          "cg": "N",
+          "perc": "100"
+        }
+      ],
+      "type": "Magic",
+      "chars": "A"
+    },
+    {
+      "id": 94,
+      "name": "D-Link Magnet",
+      "melding": [
+        {
+          "fi": 20,
+          "si": 37,
+          "cg": "L",
+          "perc": "100"
+        },
+        {
+          "fi": 37,
+          "si": 85,
+          "cg": "I",
+          "perc": "100"
+        }
+      ],
+      "type": "Magic",
+      "chars": "A"
+    },
+    {
+      "id": 95,
+      "name": "Faith",
+      "melding": [
+        {
+          "fi": 43,
+          "si": 78,
+          "cg": "N",
+          "perc": "100"
+        }
+      ],
+      "type": "Magic",
+      "chars": "V"
+    },
+    {
+      "id": 96,
+      "name": "Deep Freeze",
+      "melding": [
+        {
+          "fi": 31,
+          "si": 86,
+          "cg": "G",
+          "perc": "100"
+        },
+        {
+          "fi": 34,
+          "si": 86,
+          "cg": "H",
+          "perc": "100"
+        },
+        {
+          "fi": 86,
+          "si": 87,
+          "cg": "F",
+          "perc": "100"
+        }
+      ],
+      "type": "Magic",
+      "chars": "A"
+    },
+    {
+      "id": 97,
+      "name": "Glacier",
+      "melding": [
+        {
+          "fi": 86,
+          "si": 96,
+          "cg": "E",
+          "perc": "100"
+        },
+        {
+          "fi": 87,
+          "si": 96,
+          "cg": "F",
+          "perc": "100"
+        }
+      ],
+      "type": "Magic",
+      "chars": "A"
+    },
+    {
+      "id": 98,
+      "name": "Ice Barrage",
+      "melding": [
+        {
+          "fi": 86,
+          "si": 67,
+          "cg": "F",
+          "perc": "100"
+        },
+        {
+          "fi": 86,
+          "si": 68,
+          "cg": "H",
+          "perc": "100"
+        }
+      ],
+      "type": "Magic",
+      "chars": "A"
+    },
+    {
+      "id": 99,
+      "name": "Firaga Burst",
+      "melding": [
+        {
+          "fi": 17,
+          "si": 13,
+          "cg": "A",
+          "perc": "20"
+        },
+        {
+          "fi": 79,
+          "si": 50,
+          "cg": "A",
+          "perc": "20"
+        },
+        {
+          "fi": 79,
+          "si": 13,
+          "cg": "B",
+          "perc": "20"
+        },
+        {
+          "fi": 79,
+          "si": 84,
+          "cg": "A",
+          "perc": "20"
+        },
+        {
+          "fi": 79,
+          "si": 85,
+          "cg": "D",
+          "perc": "20"
+        },
+        {
+          "fi": 79,
+          "si": 29,
+          "cg": "B",
+          "perc": "20"
+        }
+      ],
+      "type": "Magic",
+      "chars": "A"
+    },
+    {
+      "id": 100,
+      "name": "Raging Storm",
+      "melding": [
+        {
+          "fi": 81,
+          "si": 99,
+          "cg": "B",
+          "perc": "100"
+        },
+        {
+          "fi": 1,
+          "si": 79,
+          "cg": "D",
+          "perc": "10"
+        },
+        {
+          "fi": 14,
+          "si": 17,
+          "cg": "D",
+          "perc": "10"
+        },
+        {
+          "fi": 22,
+          "si": 101,
+          "cg": "C",
+          "perc": "10"
+        },
+        {
+          "fi": 16,
+          "si": 17,
+          "cg": "A",
+          "perc": "10"
+        },
+        {
+          "fi": 17,
+          "si": 17,
+          "cg": "B",
+          "perc": "10"
+        },
+        {
+          "fi": 17,
+          "si": 79,
+          "cg": "A",
+          "perc": "10"
+        },
+        {
+          "fi": 79,
+          "si": 79,
+          "cg": "B",
+          "perc": "10"
+        }
+      ],
+      "type": "Magic",
+      "chars": "A"
+    },
+    {
+      "id": 101,
+      "name": "Cartwheel",
+      "melding": []
+    },
+    {
+      "id": 102,
+      "name": "Mega Flare",
+      "melding": [
+        {
+          "fi": 81,
+          "si": 83,
+          "cg": "B",
+          "perc": "100"
+        }
+      ],
+      "type": "Magic",
+      "chars": "TVA"
+    },
+    {
+      "id": 103,
+      "name": "Meteor",
+      "melding": [
+        {
+          "fi": 75,
+          "si": 8,
+          "cg": "B",
+          "perc": "100"
+        },
+        {
+          "fi": 10,
+          "si": 12,
+          "cg": "B",
+          "perc": "10"
+        },
+        {
+          "fi": 10,
+          "si": 39,
+          "cg": "C",
+          "perc": "10"
+        }
+      ],
+      "type": "Magic",
+      "chars": "T"
+    },
+    {
+      "id": 104,
+      "name": "Tornado",
+      "melding": [
+        {
+          "fi": 39,
+          "si": 13,
+          "cg": "N",
+          "perc": "100"
+        },
+        {
+          "fi": 2,
+          "si": 50,
+          "cg": "O",
+          "perc": "10"
+        },
+        {
+          "fi": 49,
+          "si": 50,
+          "cg": "M",
+          "perc": "10"
+        },
+        {
+          "fi": 50,
+          "si": 50,
+          "cg": "N",
+          "perc": "10"
+        },
+        {
+          "fi": 2,
+          "si": 49,
+          "cg": "G",
+          "perc": "5"
+        },
+        {
+          "fi": 52,
+          "si": 49,
+          "cg": "I",
+          "perc": "5"
+        },
+        {
+          "fi": 49,
+          "si": 49,
+          "cg": "E",
+          "perc": "5"
+        }
+      ],
+      "type": "Magic",
+      "chars": "V"
+    },
+    {
+      "id": 105,
+      "name": "Transcendence",
+      "melding": [
+        {
+          "fi": 70,
+          "si": 12,
+          "cg": "J",
+          "perc": "100"
+        }
+      ],
+      "type": "Magic",
+      "chars": "TVA"
+    },
+    {
+      "id": 106,
+      "name": "Mini",
+      "melding": [
+        {
+          "fi": 37,
+          "si": 77,
+          "cg": "N",
+          "perc": "100"
+        },
+        {
+          "fi": 39,
+          "si": 39,
+          "cg": "J",
+          "perc": "100"
+        },
+        {
+          "fi": 39,
+          "si": 66,
+          "cg": "I",
+          "perc": "100"
+        }
+      ],
+      "type": "Magic",
+      "chars": "TVA"
+    },
+    {
+      "id": 107,
+      "name": "Homing Slide",
+      "melding": [
+        {
+          "fi": 15,
+          "si": 37,
+          "cg": "P",
+          "perc": "100"
+        },
+        {
+          "fi": 15,
+          "si": 25,
+          "cg": "C",
+          "perc": "100"
+        },
+        {
+          "fi": 36,
+          "si": 25,
+          "cg": "L",
+          "perc": "100"
+        }
+      ],
+      "type": "Action",
+      "chars": "VA"
+    },
+    {
+      "id": 108,
+      "name": "Thunder Roll",
+      "melding": [
+        {
+          "fi": 26,
+          "si": 40,
+          "cg": "P",
+          "perc": "80"
+        },
+        {
+          "fi": 41,
+          "si": 40,
+          "cg": "L",
+          "perc": "80"
+        },
+        {
+          "fi": 42,
+          "si": 40,
+          "cg": "L",
+          "perc": "80"
+        }
+      ],
+      "type": "Action",
+      "chars": "V"
+    },
+    {
+      "id": 109,
+      "name": "Firewheel",
+      "melding": [
+        {
+          "fi": 79,
+          "si": 101,
+          "cg": "B",
+          "perc": "100"
+        },
+        {
+          "fi": 81,
+          "si": 101,
+          "cg": "B",
+          "perc": "100"
+        },
+        {
+          "fi": 22,
+          "si": 101,
+          "cg": "C",
+          "perc": "90"
+        }
+      ],
+      "type": "Action",
+      "chars": "A"
+    },
+    {
+      "id": 110,
+      "name": "Ice Slide",
+      "melding": [
+        {
+          "fi": 33,
+          "si": 25,
+          "cg": "F",
+          "perc": "100"
+        },
+        {
+          "fi": 86,
+          "si": 25,
+          "cg": "H",
+          "perc": "100"
+        }
+      ],
+      "type": "Action",
+      "chars": "TVA"
+    },
+    {
+      "id": 111,
+      "name": "Fire Glide",
+      "melding": [
+        {
+          "fi": 22,
+          "si": 112,
+          "cg": "C",
+          "perc": "100"
+        },
+        {
+          "fi": 79,
+          "si": 112,
+          "cg": "B",
+          "perc": "100"
+        }
+      ],
+      "type": "Action",
+      "chars": "V"
+    },
+    {
+      "id": 112,
+      "name": "Glide",
+      "melding": []
+    },
+    {
+      "id": 113,
+      "name": "Esuna",
+      "melding": []
+    },
+    {
+      "id": 114,
+      "name": "Poison Block",
+      "melding": [
+        {
+          "fi": 55,
+          "si": 89,
+          "cg": "H",
+          "perc": "80"
+        },
+        {
+          "fi": 58,
+          "si": 89,
+          "cg": "P",
+          "perc": "80"
+        }
+      ],
+      "type": "Action",
+      "chars": "TV"
+    },
+    {
+      "id": 115,
+      "name": "Confuse Barrier",
+      "melding": [
+        {
+          "fi": 18,
+          "si": 45,
+          "cg": "C",
+          "perc": "100"
+        },
+        {
+          "fi": 65,
+          "si": 45,
+          "cg": "L",
+          "perc": "100"
+        }
+      ],
+      "type": "Action",
+      "chars": "A"
+    },
+    {
+      "id": 116,
+      "name": "Stop Barrier",
+      "melding": [
+        {
+          "fi": 29,
+          "si": 45,
+          "cg": "C",
+          "perc": "80"
+        }
+      ],
+      "type": "Action",
+      "chars": "A"
+    },
+    {
+      "id": 117,
+      "name": "Payback Fang",
+      "melding": [
+        {
+          "fi": 15,
+          "si": 118,
+          "cg": "P",
+          "perc": "100"
+        }
+      ],
+      "type": "Action",
+      "chars": "T"
+    },
+    {
+      "id": 118,
+      "name": "Counter Hammer",
+      "melding": []
+    },
+    {
+      "id": 119,
+      "name": "Payback Raid",
+      "melding": [
+        {
+          "fi": 15,
+          "si": 30,
+          "cg": "P",
+          "perc": "100"
+        }
+      ],
+      "type": "Action",
+      "chars": "V"
+    },
+    {
+      "id": 120,
+      "name": "Payback Surge",
+      "melding": [
+        {
+          "fi": 15,
+          "si": 22,
+          "cg": "C",
+          "perc": "100"
+        },
+        {
+          "fi": 15,
+          "si": 26,
+          "cg": "L",
+          "perc": "100"
+        }
+      ],
+      "type": "Action",
+      "chars": "A"
+    }
+  ]
+}

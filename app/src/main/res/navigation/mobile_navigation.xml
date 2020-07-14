@@ -12,14 +12,14 @@
         tools:layout="@layout/fragment_home" />
 
     <fragment
-        android:id="@+id/nav_gallery"
-        android:name="acdc.kingdomhearts.ui.gallery.GalleryFragment"
-        android:label="@string/menu_gallery"
-        tools:layout="@layout/fragment_gallery" />
+        android:id="@+id/nav_khbbs"
+        android:name="acdc.kingdomhearts.ui.khbbs.BirthBySleepFragment"
+        android:label="@string/menu_khbbs"
+        tools:layout="@layout/fragment_khbbs" />
 
     <fragment
-        android:id="@+id/nav_slideshow"
-        android:name="acdc.kingdomhearts.ui.slideshow.SlideshowFragment"
-        android:label="@string/menu_slideshow"
-        tools:layout="@layout/fragment_slideshow" />
+        android:id="@+id/nav_kh3"
+        android:name="acdc.kingdomhearts.ui.kh3.KingdomHearts3Fragment"
+        android:label="@string/menu_kh3"
+        tools:layout="@layout/fragment_kh3" />
 </navigation>

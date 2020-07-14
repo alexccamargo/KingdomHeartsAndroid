@@ -1,13 +1,13 @@
-package acdc.kingdomhearts.ui.gallery
+package acdc.kingdomhearts.ui.kh3
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 
-class GalleryViewModel : ViewModel() {
+class KingdomHearts3ViewModel : ViewModel() {
 
     private val _text = MutableLiveData<String>().apply {
-        value = "This is gallery Fragment"
+        value = "¯\\_(ツ)_/¯"
     }
     val text: LiveData<String> = _text
 }

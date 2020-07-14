@@ -8,6 +8,12 @@
     <string name="action_settings">Settings</string>
 
     <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_khbbs">KH Birth by Sleep</string>
+    <string name="menu_kh3">KH3</string>
+
+    <string name="khbbs_tabs_all">All commands</string>
+    <string name="khbbs_tabs_command">Per Command</string>
+    <string name="khbbs_tabs_effect">Per Effect</string>
+
+    <string name="khbbs_meld_title">Command Melding</string>
 </resources>

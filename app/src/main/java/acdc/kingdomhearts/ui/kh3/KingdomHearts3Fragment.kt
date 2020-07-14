@@ -1,4 +1,4 @@
-package acdc.kingdomhearts.ui.gallery
+package acdc.kingdomhearts.ui.kh3
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -10,20 +10,20 @@ import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
 import acdc.kingdomhearts.R
 
-class GalleryFragment : Fragment() {
+class KingdomHearts3Fragment : Fragment() {
 
-    private lateinit var galleryViewModel: GalleryViewModel
+    private lateinit var kingdomHearts3ViewModel: KingdomHearts3ViewModel
 
     override fun onCreateView(
             inflater: LayoutInflater,
             container: ViewGroup?,
             savedInstanceState: Bundle?
     ): View? {
-        galleryViewModel =
-                ViewModelProviders.of(this).get(GalleryViewModel::class.java)
-        val root = inflater.inflate(R.layout.fragment_gallery, container, false)
-        val textView: TextView = root.findViewById(R.id.text_gallery)
-        galleryViewModel.text.observe(viewLifecycleOwner, Observer {
+        kingdomHearts3ViewModel =
+                ViewModelProviders.of(this).get(KingdomHearts3ViewModel::class.java)
+        val root = inflater.inflate(R.layout.fragment_kh3, container, false)
+        val textView: TextView = root.findViewById(R.id.text_kh3)
+        kingdomHearts3ViewModel.text.observe(viewLifecycleOwner, Observer {
             textView.text = it
         })
         return root
