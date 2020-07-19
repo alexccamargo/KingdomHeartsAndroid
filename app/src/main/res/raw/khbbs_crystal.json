@@ -2,31 +2,31 @@
   "data": [
     {
       "id": "sh",
-      "value": "Shimmering"
+      "desc": "Shimmering"
     },
     {
       "id": "f",
-      "value": "Fleeting"
+      "desc": "Fleeting"
     },
     {
       "id": "p",
-      "value": "Pulsing"
+      "desc": "Pulsing"
     },
     {
       "id": "W",
-      "value": "Wellspring"
+      "desc": "Wellspring"
     },
     {
       "id": "so",
-      "value": "Soothing"
+      "desc": "Soothing"
     },
     {
       "id": "h",
-      "value": "Hungry"
+      "desc": "Hungry"
     },
     {
       "id": "a",
-      "value": "Abounding"
+      "desc": "Abounding"
     }
   ]
 }

@@ -2,163 +2,531 @@
   "data": [
     {
       "id": "a",
-      "sh": "fb",
-      "f": "mh",
-      "p": "lb",
-      "w": "acp",
-      "so": "hpb",
-      "h": "hpp",
-      "a": "lpp"
+      "refs": [
+        {
+          "cid": "sh",
+          "eid": "fb"
+        },
+        {
+          "cid": "f",
+          "eid": "mh"
+        },
+        {
+          "cid": "p",
+          "eid": "lb"
+        },
+        {
+          "cid": "w",
+          "eid": "acp"
+        },
+        {
+          "cid": "so",
+          "eid": "hpb"
+        },
+        {
+          "cid": "h",
+          "eid": "hpp"
+        },
+        {
+          "cid": "a",
+          "eid": "lpp"
+        }
+      ]
     },
     {
       "id": "b",
-      "sh": "fb",
-      "f": "rb",
-      "p": "finb",
-      "w": "om",
-      "so": "dams",
-      "h": "hpp",
-      "a": "expc"
+      "refs": [
+        {
+          "cid": "sh",
+          "eid": "fb"
+        },
+        {
+          "cid": "f",
+          "eid": "rb"
+        },
+        {
+          "cid": "p",
+          "eid": "finb"
+        },
+        {
+          "cid": "w",
+          "eid": "om"
+        },
+        {
+          "cid": "so",
+          "eid": "dams"
+        },
+        {
+          "cid": "h",
+          "eid": "hpp"
+        },
+        {
+          "cid": "a",
+          "eid": "expc"
+        }
+      ]
     },
     {
       "id": "c",
-      "sh": "fs",
-      "f": "ah",
-      "p": "finb",
-      "w": "cp",
-      "so": "hpb",
-      "h": "hpp",
-      "a": "lpp"
+      "refs": [
+        {
+          "cid": "sh",
+          "eid": "fs"
+        },
+        {
+          "cid": "f",
+          "eid": "ah"
+        },
+        {
+          "cid": "p",
+          "eid": "finb"
+        },
+        {
+          "cid": "w",
+          "eid": "cp"
+        },
+        {
+          "cid": "so",
+          "eid": "hpb"
+        },
+        {
+          "cid": "h",
+          "eid": "hpp"
+        },
+        {
+          "cid": "a",
+          "eid": "lpp"
+        }
+      ]
     },
     {
       "id": "d",
-      "sh": "fs",
-      "f": "ah",
-      "p": "lb",
-      "w": "cp",
-      "so": "hpb",
-      "h": "hpp",
-      "a": "lpp"
+      "refs": [
+        {
+          "cid": "sh",
+          "eid": "fs"
+        },
+        {
+          "cid": "f",
+          "eid": "ah"
+        },
+        {
+          "cid": "p",
+          "eid": "lb"
+        },
+        {
+          "cid": "w",
+          "eid": "cp"
+        },
+        {
+          "cid": "so",
+          "eid": "hpb"
+        },
+        {
+          "cid": "h",
+          "eid": "hpp"
+        },
+        {
+          "cid": "a",
+          "eid": "lpp"
+        }
+      ]
     },
     {
       "id": "e",
-      "sh": "bb",
-      "f": "mh",
-      "p": "lb",
-      "w": "cp",
-      "so": "ib",
-      "h": "hpp",
-      "a": "ls"
+      "refs": [
+        {
+          "cid": "sh",
+          "eid": "bb"
+        },
+        {
+          "cid": "f",
+          "eid": "mh"
+        },
+        {
+          "cid": "p",
+          "eid": "lb"
+        },
+        {
+          "cid": "w",
+          "eid": "cp"
+        },
+        {
+          "cid": "so",
+          "eid": "ib"
+        },
+        {
+          "cid": "h",
+          "eid": "hpp"
+        },
+        {
+          "cid": "a",
+          "eid": "ls"
+        }
+      ]
     },
     {
       "id": "f",
-      "sh": "bb",
-      "f": "rb",
-      "p": "sc",
-      "w": "acp",
-      "so": "dams",
-      "h": "hpp",
-      "a": "ls"
+      "refs": [
+        {
+          "cid": "sh",
+          "eid": "bb"
+        },
+        {
+          "cid": "f",
+          "eid": "rb"
+        },
+        {
+          "cid": "p",
+          "eid": "sc"
+        },
+        {
+          "cid": "w",
+          "eid": "acp"
+        },
+        {
+          "cid": "so",
+          "eid": "dams"
+        },
+        {
+          "cid": "h",
+          "eid": "hpp"
+        },
+        {
+          "cid": "a",
+          "eid": "ls"
+        }
+      ]
     },
     {
       "id": "g",
-      "sh": "bs",
-      "f": "ah",
-      "p": "lb",
-      "w": "acp",
-      "so": "ib",
-      "h": "hpp",
-      "a": "lkb"
+      "refs": [
+        {
+          "cid": "sh",
+          "eid": "bs"
+        },
+        {
+          "cid": "f",
+          "eid": "ah"
+        },
+        {
+          "cid": "p",
+          "eid": "lb"
+        },
+        {
+          "cid": "w",
+          "eid": "acp"
+        },
+        {
+          "cid": "so",
+          "eid": "ib"
+        },
+        {
+          "cid": "h",
+          "eid": "hpp"
+        },
+        {
+          "cid": "a",
+          "eid": "lkb"
+        }
+      ]
     },
     {
       "id": "h",
-      "sh": "bs",
-      "f": "mh",
-      "p": "cfb",
-      "w": "acp",
-      "so": "ib",
-      "h": "hpp",
-      "a": "expw"
+      "refs": [
+        {
+          "cid": "sh",
+          "eid": "bs"
+        },
+        {
+          "cid": "f",
+          "eid": "mh"
+        },
+        {
+          "cid": "p",
+          "eid": "cfb"
+        },
+        {
+          "cid": "w",
+          "eid": "acp"
+        },
+        {
+          "cid": "so",
+          "eid": "ib"
+        },
+        {
+          "cid": "h",
+          "eid": "hpp"
+        },
+        {
+          "cid": "a",
+          "eid": "expw"
+        }
+      ]
     },
     {
       "id": "i",
-      "sh": "tb",
-      "f": "mh",
-      "p": "cfb",
-      "w": "acp",
-      "so": "hpb",
-      "h": "tm",
-      "a": "lpp"
+      "refs": [
+        {
+          "cid": "sh",
+          "eid": "tb"
+        },
+        {
+          "cid": "f",
+          "eid": "mh"
+        },
+        {
+          "cid": "p",
+          "eid": "cfb"
+        },
+        {
+          "cid": "w",
+          "eid": "acp"
+        },
+        {
+          "cid": "so",
+          "eid": "hpb"
+        },
+        {
+          "cid": "h",
+          "eid": "tm"
+        },
+        {
+          "cid": "a",
+          "eid": "lpp"
+        }
+      ]
     },
     {
       "id": "j",
-      "sh": "tb",
-      "f": "rb",
-      "p": "cfb",
-      "w": "om",
-      "so": "def",
-      "h": "tm",
-      "a": "expc"
+      "refs": [
+        {
+          "cid": "sh",
+          "eid": "tb"
+        },
+        {
+          "cid": "f",
+          "eid": "rb"
+        },
+        {
+          "cid": "p",
+          "eid": "cfb"
+        },
+        {
+          "cid": "w",
+          "eid": "om"
+        },
+        {
+          "cid": "so",
+          "eid": "def"
+        },
+        {
+          "cid": "h",
+          "eid": "tm"
+        },
+        {
+          "cid": "a",
+          "eid": "expc"
+        }
+      ]
     },
     {
       "id": "k",
-      "sh": "ts",
-      "f": "ah",
-      "p": "finb",
-      "w": "cp",
-      "so": "hpb",
-      "h": "tm",
-      "a": "lpp"
+      "refs": [
+        {
+          "cid": "sh",
+          "eid": "ts"
+        },
+        {
+          "cid": "f",
+          "eid": "ah"
+        },
+        {
+          "cid": "p",
+          "eid": "finb"
+        },
+        {
+          "cid": "w",
+          "eid": "cp"
+        },
+        {
+          "cid": "so",
+          "eid": "hpb"
+        },
+        {
+          "cid": "h",
+          "eid": "tm"
+        },
+        {
+          "cid": "a",
+          "eid": "lpp"
+        }
+      ]
     },
     {
       "id": "l",
-      "sh": "ts",
-      "f": "ah",
-      "p": "finb",
-      "w": "cp",
-      "so": "hpb",
-      "h": "tm",
-      "a": "ls"
+      "refs": [
+        {
+          "cid": "sh",
+          "eid": "ts"
+        },
+        {
+          "cid": "f",
+          "eid": "ah"
+        },
+        {
+          "cid": "p",
+          "eid": "finb"
+        },
+        {
+          "cid": "w",
+          "eid": "cp"
+        },
+        {
+          "cid": "so",
+          "eid": "hpb"
+        },
+        {
+          "cid": "h",
+          "eid": "tm"
+        },
+        {
+          "cid": "a",
+          "eid": "ls"
+        }
+      ]
     },
     {
       "id": "m",
-      "sh": "cb",
-      "f": "mh",
-      "p": "cfb",
-      "w": "cp",
-      "so": "ib",
-      "h": "tm",
-      "a": "ls"
+      "refs": [
+        {
+          "cid": "sh",
+          "eid": "cb"
+        },
+        {
+          "cid": "f",
+          "eid": "mh"
+        },
+        {
+          "cid": "p",
+          "eid": "cfb"
+        },
+        {
+          "cid": "w",
+          "eid": "cp"
+        },
+        {
+          "cid": "so",
+          "eid": "ib"
+        },
+        {
+          "cid": "h",
+          "eid": "tm"
+        },
+        {
+          "cid": "a",
+          "eid": "ls"
+        }
+      ]
     },
     {
       "id": "n",
-      "sh": "cb",
-      "f": "rb",
-      "p": "sc",
-      "w": "cp",
-      "so": "def",
-      "h": "tm",
-      "a": "ls"
+      "refs": [
+        {
+          "cid": "sh",
+          "eid": "cb"
+        },
+        {
+          "cid": "f",
+          "eid": "rb"
+        },
+        {
+          "cid": "p",
+          "eid": "sc"
+        },
+        {
+          "cid": "w",
+          "eid": "cp"
+        },
+        {
+          "cid": "so",
+          "eid": "def"
+        },
+        {
+          "cid": "h",
+          "eid": "tm"
+        },
+        {
+          "cid": "a",
+          "eid": "ls"
+        }
+      ]
     },
     {
       "id": "o",
-      "sh": "ds",
-      "f": "ah",
-      "p": "finb",
-      "w": "acp",
-      "so": "ib",
-      "h": "tm",
-      "a": "ls"
+      "refs": [
+        {
+          "cid": "sh",
+          "eid": "ds"
+        },
+        {
+          "cid": "f",
+          "eid": "ah"
+        },
+        {
+          "cid": "p",
+          "eid": "finb"
+        },
+        {
+          "cid": "w",
+          "eid": "acp"
+        },
+        {
+          "cid": "so",
+          "eid": "ib"
+        },
+        {
+          "cid": "h",
+          "eid": "tm"
+        },
+        {
+          "cid": "a",
+          "eid": "ls"
+        }
+      ]
     },
     {
       "id": "p",
-      "sh": "ds",
-      "f": "mh",
-      "p": "cfb",
-      "w": "acp",
-      "so": "ib",
-      "h": "tm",
-      "a": "expw"
+      "refs": [
+        {
+          "cid": "sh",
+          "eid": "ds"
+        },
+        {
+          "cid": "f",
+          "eid": "mh"
+        },
+        {
+          "cid": "p",
+          "eid": "cfb"
+        },
+        {
+          "cid": "w",
+          "eid": "acp"
+        },
+        {
+          "cid": "so",
+          "eid": "ib"
+        },
+        {
+          "cid": "h",
+          "eid": "tm"
+        },
+        {
+          "cid": "a",
+          "eid": "expw"
+        }
+      ]
     }
   ]
 }
