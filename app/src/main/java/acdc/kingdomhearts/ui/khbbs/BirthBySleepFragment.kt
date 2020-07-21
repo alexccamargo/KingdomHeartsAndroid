@@ -53,7 +53,13 @@ class BirthBySleepFragment : Fragment() {
         val effectMap = processEffectData(effectJSONS, crystalJSONS, crystalsEffects)
 
         allCommands = processData(commandJSONS, effectMap)
-        effects = effectJSONS.map { Effect(it.id, it.description) }
+        effects = effectJSONS.map { eff ->
+            Effect(
+                eff.id,
+                eff.description,
+                effectMap.filter { em -> em.value.refs.any { ref -> ref.effect.id == eff.id } }
+                    .map { it.key })
+        }
 
         return root
     }

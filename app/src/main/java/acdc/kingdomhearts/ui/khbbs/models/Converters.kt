@@ -13,8 +13,8 @@ fun fromJSON(crystalJSON: CrystalJSON?): Crystal {
 
 fun fromJSON(effectJSON: EffectJSON?): Effect {
     if (effectJSON == null) {
-        return Effect("INVALID", "Invalid")
+        return Effect("INVALID", "Invalid", ArrayList())
     }
 
-    return Effect(effectJSON.id, effectJSON.description)
+    return Effect(effectJSON.id, effectJSON.description, ArrayList())
 }

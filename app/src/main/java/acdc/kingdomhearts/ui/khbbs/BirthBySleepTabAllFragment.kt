@@ -8,8 +8,7 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.TextView
-import android.widget.Toast
+import android.widget.*
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
@@ -17,11 +16,14 @@ import androidx.recyclerview.widget.RecyclerView
 
 class TabAllPageFragment internal constructor(
     commands: List<Command>,
-    effectsModel: List<Effect>
+    effects: List<Effect>
 ) : Fragment(), TabAllRecyclerViewAdapter.ItemClickListener {
 
     private var adapter: TabAllRecyclerViewAdapter? = null
-    private var commandsModel = commands
+    private val allCommands = commands
+    private val effectsModel = effects
+    private var selectedEffect: Effect? = null
+    private var spinnerData: ArrayList<Effect> = ArrayList()
 
     override fun onCreateView(
         inflater: LayoutInflater,
@@ -35,9 +37,52 @@ class TabAllPageFragment internal constructor(
 
         val recyclerView: RecyclerView = view.findViewById(R.id.rvCommands)
         recyclerView.layoutManager = LinearLayoutManager(context)
-        adapter = TabAllRecyclerViewAdapter(context, commandsModel)
+        adapter = TabAllRecyclerViewAdapter(context, allCommands)
         adapter!!.setClickListener(this)
         recyclerView.adapter = adapter
+
+        spinnerData.add(Effect("", "No filter selected", ArrayList()))
+        spinnerData.addAll(effectsModel)
+
+        val spinner: Spinner = view.findViewById(R.id.effects_spinner)
+        context?.let {
+            val adapter = ArrayAdapter<Effect>(
+                it,
+                R.layout.fragment_khbbs_tab_all_dd,
+                R.id.spinner_effect_name,
+                spinnerData
+            )
+            spinner.adapter = adapter
+        }
+
+        spinner.onItemSelectedListener = object : AdapterView.OnItemSelectedListener {
+            override fun onNothingSelected(parent: AdapterView<*>?) {
+                spinner.setSelection(0)
+            }
+
+            override fun onItemSelected(
+                parent: AdapterView<*>?,
+                view: View?,
+                position: Int,
+                id: Long
+            ) {
+                recyclerView.adapter.apply {
+                    val adp = adapter as TabAllRecyclerViewAdapter
+                    if (position == 0) {
+                        adp.commands = allCommands
+                    } else {
+                        selectedEffect = spinnerData[position]
+                        adp.commands = allCommands.filter { cmd ->
+                            cmd.melding.any {
+                                selectedEffect!!.crystalGroupsAssociated.contains(it.crystalGroup?.id)
+                            }
+                        }
+                    }
+                    adp.notifyDataSetChanged()
+                }
+            }
+        }
+
     }
 
     override fun onItemClick(view: View?, position: Int) {
@@ -54,7 +99,7 @@ class TabAllRecyclerViewAdapter internal constructor(
     data: List<Command>
 ) :
     RecyclerView.Adapter<TabAllRecyclerViewAdapter.ViewHolder>() {
-    private val mData = data
+    var commands = data
     private val mInflater: LayoutInflater = LayoutInflater.from(context)
     private var mClickListener: ItemClickListener? = null
 
@@ -70,13 +115,13 @@ class TabAllRecyclerViewAdapter internal constructor(
         holder: ViewHolder,
         position: Int
     ) {
-        val command = mData[position]
+        val command = commands[position]
         holder.myTextView.text = command.name
     }
 
     // total number of rows
     override fun getItemCount(): Int {
-        return mData.size
+        return commands.size
     }
 
     // stores and recycles views as they are scrolled off screen
@@ -94,7 +139,7 @@ class TabAllRecyclerViewAdapter internal constructor(
     }
 
     fun getItem(id: Int): String {
-        return mData[id].name
+        return commands[id].name
     }
 
     fun setClickListener(itemClickListener: ItemClickListener?) {

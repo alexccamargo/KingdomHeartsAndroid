@@ -7,6 +7,6 @@ data class CrystalEffect(
 
 data class CrystalEffectRefs(
     val cristal: Crystal,
-    val effectId: Effect
+    val effect: Effect
 )
 
